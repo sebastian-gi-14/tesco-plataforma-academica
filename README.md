@@ -33,3 +33,22 @@ Diseñado con optimización de consultas SQL y manejo de estados en React para e
 
 ## Escalabilidad
 La plataforma cuenta con una lista sobre las áreas de los curos, permitiendo incluir programación, ciencias, administración, etc. Con la finalidad de no solo resolver problemas de una sola parte, sino en toda la institución y carreras.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+## Demostración Visual
+
+**Pantalla principal / Vista de Inicio**
+![Captura de pantalla](./assets/p_principal.png)
+
+
+**Pantalla Login / Vista de Inicio de sesión (todos los roles tienen el mismo diseño**
+![Captura de pantalla](./assets/login_muestra rol erroneo.png)
+
+
+
+
