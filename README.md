@@ -45,10 +45,17 @@ La plataforma cuenta con una lista sobre las áreas de los curos, permitiendo in
 **Pantalla principal / Vista de Inicio**
 ![Captura de pantalla](./assets/p_principal.png)
 
+**Pantalla Login / Vista de Inicio de sesión (todos los roles tienen el mismo diseño)**
+![Captura de pantalla](./assets/p_login.png)
 
-**Pantalla Login / Vista de Inicio de sesión (todos los roles tienen el mismo diseño**
-![Captura de pantalla](./assets/login_muestra rol erroneo.png)
+**Pantalla Administrador / Vista principal del Administrador y su menú de opciones**
+![Captura de pantalla](./assets/panel_admin.png)
 
+**Pantalla Profesor / Vista principal del Profesor y su menú de opciones**
+![Captura de pantalla](./assets/panel_admin.png)
+
+**Pantalla Profesor / Vista de estadísticas por grupo**
+![Captura de pantalla](./assets/panel_docente_estadisticasalumnos.png)
 
 
 
